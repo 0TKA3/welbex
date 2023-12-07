@@ -4,7 +4,6 @@ import {useResize} from '../hooks/useResize'
 
 export default function Content() {
 
-    console.log(useResize())
 
   return (
     <main className='content'>
