@@ -521,3 +521,9 @@ ul li {
         overflow: hidden;
     }
 }
+
+@media (min-width: 0px) and (max-width: 1030px) {
+  .header__contacts__number {
+    margin-right: 10px !important;
+  }
+}
